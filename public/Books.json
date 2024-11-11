@@ -1,0 +1,93 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://i.ibb.co/HVt9PNL/image1.jpg",
+      
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Mystery",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019,
+      "review": "In 'The Silent Patient,' Michaelides delivers a gripping psychological thriller that keeps readers on the edge of their seats. The narrative is meticulously crafted, with twists and turns that will leave you guessing until the very end. The characters are complex and compelling, adding depth to the story as they navigate through layers of deception and intrigue. This is a must-read for fans of the genre. The author's ability to create tension and suspense is masterful, drawing the reader deeper into the mystery with each page turn."
+
+    },
+    {
+      "bookId": 2,
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "image": "https://i.ibb.co/G7tdw4Q/image2.jpg",
+      
+      "totalPages": 352,
+      "rating": 4.7,
+      "category": "Biography",
+      "tags": ["Memoir", "Education"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2018,
+      "review": "Tara Westover's memoir, 'Educated,' is a remarkable journey of self-discovery and resilience. Through her powerful storytelling, Westover invites readers into her world, where she confronts the challenges of growing up in a strict and isolated environment. Her pursuit of education against all odds is both inspiring and thought-provoking, challenging readers to reflect on the transformative power of knowledge. Westover's prose is evocative, painting vivid images of her experiences and the landscapes that shaped her."
+
+    },
+    {
+      "bookId": 3,
+      "bookName": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "image": "https://i.ibb.co/KKV0ZyV/image3.jpg",
+      
+      "totalPages": 400,
+      "rating": 4.4,
+      "category": "Fantasy",
+      "tags": ["Magic", "Romance"],
+      "publisher": "Doubleday",
+      "yearOfPublishing": 2011,
+      "review": "Step into the enchanting world of 'The Night Circus,' where magic and mystery await at every turn. Morgenstern's prose is lyrical and evocative, painting a vivid picture of a circus unlike any other. As the story unfolds, readers are drawn into a mesmerizing tale of love, rivalry, and the extraordinary feats of its performers. 'The Night Circus' is a breathtaking experience that will captivate readers long after they've turned the final page. Morgenstern's attention to detail is extraordinary, immersing the reader in a world that feels both fantastical and familiar."
+
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://i.ibb.co/1f2cksn/image4.jpg",
+      
+      "totalPages": 180,
+      "rating": 4.2,
+      "category": "Classic",
+      "tags": ["Historical Fiction", "Romance"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925,
+      "review": "F. Scott Fitzgerald's 'The Great Gatsby' is a timeless classic that continues to resonate with readers today. Set against the backdrop of the Roaring Twenties, the novel explores themes of love, ambition, and the pursuit of the American Dream. Fitzgerald's prose is as dazzling as the parties he describes, drawing readers into the glamorous world of Jay Gatsby and Daisy Buchanan. This is a novel that rewards multiple readings, revealing new layers of meaning with each encounter. Fitzgerald's exploration of the complexities of human relationships is profound, making 'The Great Gatsby' a work of enduring relevance."
+
+    },
+    {
+      "bookId": 5,
+      "bookName": "Amazine Story Before 2000",
+      "author": "George Orwell",
+      "image": "https://i.ibb.co/hYS9B0B/image5.jpg",
+     
+      "totalPages": 328,
+      "rating": 4.6,
+      "category": "Science Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949,
+      "review": "George Orwell's '1984' remains one of the most chilling and prophetic novels of the 20th century. Set in a dystopian future where surveillance and propaganda reign supreme, the novel explores themes of power, control, and the erosion of individual freedoms. Orwell's vision of a totalitarian society is as relevant today as it was when the novel was first published, serving as a stark warning against the dangers of unchecked authority. Orwell's ability to create a world that feels both familiar and terrifying is unmatched, leaving a lasting impact on readers."
+
+    },
+    {
+      "bookId": 6,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/jfVWkLb/image6.jpg",
+      
+      "totalPages": 281,
+      "rating": 4.8,
+      "category": "Classic",
+      "tags": ["Legal Drama", "Social Issues"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960,
+      "review": "Harper Lee's 'To Kill a Mockingbird' is a timeless masterpiece that continues to resonate with readers of all ages. Through the eyes of young Scout Finch, Lee explores themes of racism, injustice, and moral growth in the Deep South. The novel's enduring appeal lies in its universal themes and unforgettable characters, from the noble Atticus Finch to the mysterious Boo Radley. 'To Kill a Mockingbird' is a powerful reminder of the importance of empathy and compassion in the face of adversity. Lee's portrayal of the complexities of human nature is both poignant and thought-provoking."
+
+    }
+  ]
+  
